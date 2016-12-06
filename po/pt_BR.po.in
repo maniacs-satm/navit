@@ -1,5 +1,5 @@
 # Brazilian Portuguese translations for navit
-# Copyright (C) 2006-2015 The Navit Team
+# Copyright (C) 2006-2016 The Navit Team
 # This file is distributed under the same license as the navit package.
 # Many thanks to the contributors of this translation:
 # Carla Pita https://launchpad.net/~carla-pita
@@ -1991,6 +1991,12 @@ msgstr "Layout"
 msgid "Height Profile"
 msgstr "Perfil de Altitude"
 
+msgid "please install a map *.heightlines.bin to provide elevationdata"
+msgstr ""
+
+msgid "The route must cross at least 2 heightlines"
+msgstr ""
+
 msgid "Route Description"
 msgstr "Descrição da Rota"
 
@@ -2046,10 +2052,6 @@ msgstr "Pesquisar"
 msgid "Towns"
 msgstr "Cidades"
 
-#. Android resource: @strings/position_popup_drive_here
-msgid "Route to here"
-msgstr "Rota até aqui"
-
 msgid "Map data (c) OpenStreetMap contributors, ODBL"
 msgstr "Dados do mapa (c) colaboradores OpenStreetMap, ODBL"
 
@@ -2066,6 +2068,10 @@ msgid ""
 "Sorry, we currently do not support maps above 3.8G on Android, please select "
 "a smaller one."
 msgstr ""
+
+#. Android resource: @strings/position_popup_drive_here
+msgid "Route to here"
+msgstr "Rota até aqui"
 
 msgid "Cancel"
 msgstr "Cancelar"
@@ -2528,6 +2534,9 @@ msgstr "Tela cheia"
 
 msgid "Window Mode"
 msgstr "Modo de Janela"
+
+msgid "Layers"
+msgstr ""
 
 msgid "Description"
 msgstr "Descrição"
